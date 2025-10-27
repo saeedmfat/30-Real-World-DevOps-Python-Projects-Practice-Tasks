@@ -54,5 +54,3 @@
 28. **Network Latency & Topology Visualizer** – Use Python + networkx to map node connectivity and detect high-latency paths.
 29. **Intrusion Detection from Logs** – Write a Python daemon that monitors system logs and blocks repeated failed login attempts.
 30. **Compliance & Security Policy Scanner** – Create a Python service that scans configurations for deviations from CIS/NIST-style baselines.
-آیا مایل هستی من برای همین ۳۰ پروژه، یک **نقشه یادگیری مرحله‌به‌مرحله (Roadmap)** طراحی کنم؟
-یعنی ترتیب منطقی اجرای پروژه‌ها، ابزارهای مورد نیاز، و مهارت‌هایی که هر کدام بهت اضافه می‌کنند.
